@@ -1,8 +1,8 @@
-# React + Vite
+# Farm Animal Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a full-stack web application designed to help users find specific animals on a farm. The frontend is built with React, providing a smooth user interface, while the backend is powered by Express, handling API requests and data management.
+## Features:
+* Animal Search: Users can search for different animals on the farm.
+* Interactive UI: The React frontend offers a responsive and user-friendly design.
+* Backend API: The Express backend handles animal data retrieval and management.
+* Real-Time Data: Dynamic interaction between the frontend and backend to fetch updated information.
